@@ -18,3 +18,15 @@
 	path = repos/meta-tegra-community
 	url = https://github.com/OE4T/meta-tegra-community
 	branch = master
+[submodule "repos/meta-python-ai"]
+	path = repos/meta-python-ai
+	url = git@github.com:cmcquinn/meta-python-ai.git
+	branch = master+cuda
+[submodule "repos/meta-clang-revival"]
+	path = repos/meta-clang-revival
+	url = https://github.com/zboszor/meta-clang-revival.git
+	branch = main
+[submodule "repos/meta-clang"]
+	path = repos/meta-clang
+	url = https://github.com/kraj/meta-clang.git
+	branch = master
